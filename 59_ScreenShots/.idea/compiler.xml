@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="51_Java" />
+        <module name="54_Few_Windows" />
+        <module name="explitWait" />
+        <module name="52_JS" />
+        <module name="56_CheckingAvabilityOfElements" />
+        <module name="58_keyboards_Action" />
+        <module name="51_JS" />
+        <module name="maventest" />
+        <module name="51_ComplicatedAction" />
+        <module name="53_JS_Alerts" />
+        <module name="57_Element_check" />
+        <module name="55_WorkingWith_Tabs" />
+        <module name="59_ScreenShots" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
